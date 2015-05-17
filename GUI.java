@@ -40,7 +40,8 @@ import javax.swing.text.DefaultCaret;
  * understand how this class works.
  * 
  * @author Tony Butler-Yeoman
- * adjustments made by @author Divya Patel
+ * adjustments made by...
+ * @author DivyaP
  */
 public abstract class GUI {
 	/**
