@@ -1,4 +1,3 @@
-//GUI class goes here
 import java.awt.BorderLayout;
 import java.awt.Dimension;
 import java.awt.Graphics;
@@ -540,4 +539,3 @@ public abstract class GUI {
 }
 
 // code for COMP261 assignments
-
